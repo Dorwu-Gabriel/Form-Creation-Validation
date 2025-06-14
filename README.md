@@ -44,7 +44,6 @@ This project is a simple user registration form built with HTML, CSS, and JavaSc
 
 
 ## Author
-**Dorwu Gabriel
-This project was completed as part of the ALX Software Engineering program.
+Dorwu Gabriel.
 
----
+This project was completed as part of the ALX Software Engineering program.
