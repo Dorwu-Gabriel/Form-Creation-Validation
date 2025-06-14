@@ -39,12 +39,12 @@ This project is a simple user registration form built with HTML, CSS, and JavaSc
 
 ## Screenshot
 
-```markdown
-![Screenshot of User Registration Form](Form-Design.png)
-```
+
+![Screenshot of User Registration Form](https://github.com/Dorwu-Gabriel/Form-Creation-Validation/blob/main/Form-Design.png)
+
 
 ## Author
-
+**Dorwu Gabriel
 This project was completed as part of the ALX Software Engineering program.
 
 ---
