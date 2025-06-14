@@ -39,4 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
             feedbackDiv.style.color = '#28a745';
         } else {
             feedbackDiv.innerHTML = messages.join('<br>');
-            feedbackDiv.style.color
+                        feedbackDiv.style.color = '#dc3545';
+                    }
+                });
+            });
